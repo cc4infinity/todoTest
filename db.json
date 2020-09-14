@@ -1,0 +1,12 @@
+{
+  "todos": {
+    "todo1": {
+      "done": true,
+      "text": "done todo"
+    },
+    "todo2": {
+      "done": false,
+      "text": "unfinished todo"
+    }
+  }
+}
